@@ -7,7 +7,7 @@ metadata:
 spec:
   chart:
     spec:
-      chart: bitnami/jupyterhub
+      chart: jupyterhub
       version: 3.0.3
       sourceRef:
         kind: HelmRepository
